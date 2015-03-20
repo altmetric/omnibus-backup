@@ -1,7 +1,7 @@
 Backup Omnibus project
 ======================
 This project creates full-stack platform-specific packages for
-the [`backup` gem](https://rubygems.org/gems/backup).
+[version 3.11.0 of the `backup` gem](https://rubygems.org/gems/backup/versions/3.11.0).
 
 Installation
 ------------
