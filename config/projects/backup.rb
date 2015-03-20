@@ -16,9 +16,9 @@ build_version do
   source :version, from_dependency: 'backup'
 end
 
-build_iteration 1
+build_iteration 2
 
-override :ruby, version: '2.1.5'
+override :ruby, version: '1.9.3-p550'
 
 dependency "preparation"
 dependency "backup"
